@@ -1,0 +1,27 @@
+{
+  "name": "normalize-event",
+  "version": "0.0.0",
+  "description": "A function that provides basic DOM Event support in IE8 and below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/normalize-event.git"
+  },
+  "keywords": [
+    "ie8",
+    "dom",
+    "event",
+    "target",
+    "preventDefault",
+    "stopPropagation"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/normalize-event/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/normalize-event"
+}
